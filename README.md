@@ -5,6 +5,11 @@
   <img src="https://raw.githubusercontent.com/hashirjawad020-oss/hashirjawad020-oss/main/HASHIR.png" width="100%" />
 </p>
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hashirjawad020-oss&theme=tokyo-night" />
+</p>
+
+
+<p align="center">
   <img src="https://img.shields.io/badge/Web%20Dev-Basic-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Full--Stack-Basic-purple?style=for-the-badge" />
   <img src="https://img.shields.io/badge/FlutterFlow-Frontend%2BBackend-00C2FF?style=for-the-badge" />
