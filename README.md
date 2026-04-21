@@ -8,7 +8,6 @@
 
 <br/>
 
-<!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(Basic)+%F0%9F%9A%80;FlutterFlow+%7C+Supabase+%7C+AI+%F0%9F%A4%96;Always+learning%2C+always+building+%F0%9F%94%A8)](https://git.io/typing-svg)
 
 <br/>
@@ -42,22 +41,27 @@ const hashir = {
 
 ### 📊 GitHub Stats
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=hashirjawad&show_icons=true&theme=calm&hide_border=true&bg_color=f0f4f8&title_color=2c5364&icon_color=203a43&text_color=333"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashirjawad&layout=compact&theme=calm&hide_border=true&bg_color=f0f4f8&title_color=2c5364&text_color=333"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=hashirjawad020-oss&show_icons=true&theme=calm&hide_border=true&bg_color=f0f4f8&title_color=2c5364&icon_color=203a43&text_color=333"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashirjawad020-oss&layout=compact&theme=calm&hide_border=true&bg_color=f0f4f8&title_color=2c5364&text_color=333"/>
+
+---
+
+### 🔥 Streak
+
+<img src="https://streak-stats.demolab.com?user=hashirjawad020-oss&theme=calm&hide_border=true&background=f0f4f8&ring=2c5364&fire=203a43&currStreakLabel=2c5364"/>
 
 ---
 
 ### 🌐 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hashirjawad)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hashirjawad)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hashirjawad020-oss)
 
 <br/>
 
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&animation=fadeIn" />
-
 
 
 
