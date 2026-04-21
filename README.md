@@ -4,6 +4,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hashirjawad020-oss&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hashirjawad020-oss&theme=tokyonight&hide_border=true" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Web%20Dev-Basic-blue?style=for-the-badge" />
