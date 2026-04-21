@@ -55,7 +55,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hashirjawad020-oss&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hashirjawad020-oss&show_icons=true&theme=chartreuse-dark&hide_border=true" />
 </p>
 
 ---
@@ -67,6 +67,3 @@
 </p>
 ## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hashirjawad020-oss&theme=tokyo-night" />
-</p>
