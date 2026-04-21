@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Hashir</h1>
+<h3 align="center">Learner • Builder • Problem Solver</h3>
 
-<!--
-**hashirjawad020-oss/hashirjawad020-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🌱 Exploring **Full-Stack Development (Basic)**
+- ⚡ Building with **FlutterFlow, Supabase & AI**
+- 🧠 Focused on **Optimization**
+- 🔧 Love creating simple, real-world projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+- 💻 Frontend: FlutterFlow  
+- 🗄️ Backend: Supabase  
+- 🤖 AI: Vibe Coding  
+- ⚙️ Programming: C  
+
+---
+
+### 📱 Projects
+- ✅ To-Do List App  
+- 💰 Expense Tracker  
+- 🌍 Mysuru Visitor App  
+- ⏱️ Stopwatch (C)  
+- 🔌 Arduino Ammeter  
+- 🤖 Two-Wheel Robot  
+
+---
+
+### 🔥 Quote
+> "Build simple. Optimize always."
