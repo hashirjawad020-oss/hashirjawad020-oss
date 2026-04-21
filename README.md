@@ -68,6 +68,7 @@
   <img src="https://streak-stats.demolab.com?user=hashirjawad020-oss&theme=chartreuse-dark&hide_border=true" />
 </p>
 ## 📈 Contribution Graph
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hashirjawad020-oss&bg_color=0d1117&color=00ffcc&line=00ffcc&point=ffffff&area=true&hide_border=true&hide_title=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hashirjawad020-oss&theme=tokyo-night" />
 </p>
