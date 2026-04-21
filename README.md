@@ -98,15 +98,7 @@
 
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hashirjawad020-oss/hashirjawad020-oss/main/HASHIR.png" width="100%" />
-</p>
-<br><br>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=%20Hi+👋,+I'm+Hashir;Learner+%7C+Builder+%7C+Problem+Solver;Full-Stack+%28Basic%29+Developer;FlutterFlow+%7C+Supabase+%7C+AI" />
-</p>
-<br>
 
 
 <p align="center">
