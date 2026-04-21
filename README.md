@@ -62,9 +62,8 @@
 
 ### 🔥 Quote
 > Build simple. Improve always.
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hashirjawad020-oss&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=hashirjawad020-oss&theme=chartreuse-dark&hide_border=true" />
 </p>
 ## 📈 Contribution Graph
 
