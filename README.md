@@ -70,5 +70,5 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hashirjawad020-oss&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hashirjawad020-oss&theme=chartreuse-dark" />
 </p>
