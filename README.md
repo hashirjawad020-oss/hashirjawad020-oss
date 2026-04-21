@@ -54,7 +54,17 @@
 - Turning ideas into working projects
 
 ---
+### 🚀 Tools I Use
 
+<p align="center">
+  <img src="https://img.shields.io/badge/FlutterFlow-00C2FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI-Vibe%20Coding-black?style=for-the-badge" />
+</p>
+<br><br>
+
+<br>
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hashirjawad020-oss&show_icons=true&theme=chartreuse-dark&hide_border=true" />
@@ -64,9 +74,11 @@
 
 ### 🔥 Quote
 > Build simple. Improve always.
+> 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=hashirjawad020-oss&theme=chartreuse-dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=hashirjawad020-oss&theme=tokyonight" />
 </p>
+
 ## 📈 Contribution Graph
 
 <p align="center">
