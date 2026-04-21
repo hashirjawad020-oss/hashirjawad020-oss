@@ -60,3 +60,8 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hashirjawad020-oss&theme=tokyonight" />
 </p>
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hashirjawad020-oss&theme=tokyo-night" />
+</p>
