@@ -148,26 +148,21 @@
 
 
 <br>
-###  GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hashirjawad020-oss&show_icons=true&theme=chartreuse-dark&hide_border=true" />
-</p>
+### GitHUb Stats
+<img src="https://github-readme-stats.vercel.app/api?username=hashirjawad020-oss&show_icons=true&theme=transparent&bg_color=0d1117&title_color=00C2FF&icon_color=00C2FF&text_color=9BE9FF" />
+
+
 
 ---
 
 ###  Quote
 > Build simple. Improve always.
 > 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=hashirjawad020-oss&theme=chartreuse-dark" />
-</p>
+<img src="https://streak-stats.demolab.com?user=hashirjawad020-oss&theme=transparent&background=0d1117&ring=00C2FF&fire=38BDF8&currStreakLabel=00C2FF&sideLabels=9BE9FF&dates=9BE9FF" />
 
-### Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hashirjawad020-oss&bg_color=0d1117&color=00ffcc&line=00ffcc&point=ffffff&area=true&hide_border=true&hide_title=true" />
-</p>
 ---
+### Contribution Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hashirjawad020-oss&bg_color=0d1117&color=00C2FF&line=38BDF8&point=9BE9FF&area=true&hide_border=true&hide_title=true" />
 
 
 
