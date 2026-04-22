@@ -162,7 +162,9 @@
 ---
 ### Contribution Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hashirjawad020-oss&bg_color=0d1117&color=00C2FF&line=38BDF8&point=9BE9FF&area=true&hide_border=true&hide_title=true" />
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hashirjawad020-oss/hashirjawad020-oss/main/dist/github-contribution-grid-snake-dark.svg" />
+</p>
 
 
 
