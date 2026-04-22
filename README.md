@@ -167,6 +167,15 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hashirjawad020-oss&bg_color=0d1117&color=00ffcc&line=00ffcc&point=ffffff&area=true&hide_border=true&hide_title=true" />
 </p>
+---
 
+### 🌐 Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hashirjawad)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hashirjawad020-oss)
+
+</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&animation=fadeIn" />
