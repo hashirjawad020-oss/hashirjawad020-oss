@@ -149,7 +149,7 @@
 
 
 ### GitHUb Stats
-<img src="https://github-readme-stats.vercel.app/api?username=hashirjawad020-oss&show_icons=true&theme=transparent&bg_color=0d1117&title_color=00C2FF&icon_color=00C2FF&text_color=9BE9FF" />
+<img src="https://github-readme-stats.vercel.app/api?username=hashirjawad020-oss&show_icons=true&theme=transparent&hide_border=true" />
 
 
 
