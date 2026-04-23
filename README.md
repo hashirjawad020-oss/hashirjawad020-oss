@@ -96,18 +96,17 @@
 
 
 
-
-
-
-
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Web%20Dev-Basic-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Full--Stack-Basic-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FlutterFlow-Frontend%2BBackend-00C2FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Supabase-Backend-3ECF8E?style=for-the-badge" />
-</p>
 
+  <img src="https://img.shields.io/badge/Web%20Dev-Basic-000000?style=for-the-badge&logo=hackthebox&logoColor=00ff88&labelColor=000000&color=000000" />
+
+  <img src="https://img.shields.io/badge/Full--Stack-Basic-000000?style=for-the-badge&logo=codeforces&logoColor=00ff88&labelColor=000000&color=000000" />
+
+  <img src="https://img.shields.io/badge/FlutterFlow-Frontend%2BBackend-000000?style=for-the-badge&logo=flutter&logoColor=00ff88&labelColor=000000&color=000000" />
+
+  <img src="https://img.shields.io/badge/Supabase-Backend-000000?style=for-the-badge&logo=supabase&logoColor=00ff88&labelColor=000000&color=000000" />
+
+</p>
 ---
 
 ## About Me
