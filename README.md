@@ -117,9 +117,8 @@
 - Interested in problem solving and optimization  
 - Building small practical projects and improving consistently  
 
-
-
 ---
+
 ### 🛠️ Tech Stack
 <p align="center">
 
@@ -132,8 +131,8 @@
   <img src="https://img.shields.io/badge/AI-Vibe%20Coding-000000?style=for-the-badge&logo=openai&logoColor=00ff88&color=000000" />
 
 </p>
----
 
+---
 <h2>📌 Projects</h2>
 
 <div align="center">
