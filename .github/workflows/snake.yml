@@ -21,8 +21,7 @@ jobs:
         with:
           github_user_name: hashirjawad020-oss
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?color_snake=39FF14&color_dots=#000000,#001a12,#003d2b,#00c853,#7CFFCB
-
+              dist/github-contribution-grid-snake-dark.svg?color_snake=00FF9C&color_dots=#000000,#001a12,#003d2b,#00FF9C,#7CFFCB
       - name: Commit & push
         uses: EndBug/add-and-commit@v9
         with:
