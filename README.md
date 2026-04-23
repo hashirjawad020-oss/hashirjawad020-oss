@@ -135,21 +135,21 @@
 ---
 <h2>📌 Projects</h2>
 
-<div align="center">
+<p align="center">
 
-```bash
-> Todo List            ✔ simple & clean task manager
-> Expense Tracker      💰 track money like a pro
-> Mysuru Visitor App   📍 local guide app
-> Stopwatch (C)        ⏱ low-level precision
-> Arduino Ammeter      ⚡ hardware + measurement
-> Two-Wheel Robot      🤖 automation + web bots
-```
-</div>
+<b>Todo List</b> — Simple and clean task manager<br>
+<b>Expense Tracker</b> — Track expenses efficiently<br>
+<b>Mysuru Visitor App</b> — Local city guide application<br>
+<b>Stopwatch (C)</b> — Low-level timing system<br>
+<b>Arduino Ammeter</b> — Hardware-based current measurement<br>
+<b>Two-Wheel Robot</b> — Automation using web bot integration<br>
+<b>Crowd Management System</b> — Intelligent system for safe and controlled entry & exit flow
 
+</p>
 
 
 ---
+
 ## What I'm Into
 
 - Optimizing simple systems  
@@ -158,28 +158,30 @@
 - Turning ideas into working solutions
 ---
 
-
-
-### GitHUb Stats
-<img src="https://github-readme-stats.vercel.app/api?username=hashirjawad020-oss&show_icons=true&theme=transparent&hide_border=true" />
-
-
-
----
-
-###  Quote
-> Build simple. Improve always.
-> 
-<img src="https://streak-stats.demolab.com?user=hashirjawad020-oss&theme=transparent&background=0d1117&hide_border=true" />
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hashirjawad020-oss&show_icons=true&theme=transparent&hide_border=true&title_color=00ff88&text_color=00ffaa&icon_color=00ff88" />
 </p>
 
 ---
 
-### Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hashirjawad020-oss&bg_color=0d1117&color=00C2FF&line=38BDF8&point=9BE9FF&area=true&hide_border=true&hide_title=true" />
+### 🔥 Quote
+> Build simple. Improve always.
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=hashirjawad020-oss&theme=transparent&background=00000000&hide_border=true&ring=00ff88&fire=39ff14&currStreakNum=00ff88&sideNums=00ff88&currStreakLabel=00ff88&sideLabels=00ffaa&dates=00ffaa" />
+</p>
+
+---
+
+### 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hashirjawad020-oss&bg_color=000000&color=00ff88&line=00ff88&point=39ff14&area=true&hide_border=true&hide_title=true" />
+</p>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/hashirjawad020-oss/hashirjawad020-oss/main/dist/github-contribution-grid-snake-dark.svg" />
-</p>
+</p>it
 
 
 
