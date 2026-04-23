@@ -131,14 +131,21 @@
 </p>
 ---
 
-## Projects
+<h2>📌 Projects</h2>
 
-- Todo List  
-- Expense Tracker  
-- Mysuru Visitor App  
-- Stopwatch (C)  
-- Arduino Ammeter  
-- Two-Wheel Robot (Web Bots)    
+<div align="center">
+
+```bash
+> Todo List            ✔ simple & clean task manager
+> Expense Tracker      💰 track money like a pro
+> Mysuru Visitor App   📍 local guide app
+> Stopwatch (C)        ⏱ low-level precision
+> Arduino Ammeter      ⚡ hardware + measurement
+> Two-Wheel Robot      🤖 automation + web bots
+```
+</div>
+
+
 
 ---
 ## What I'm Into
@@ -146,7 +153,7 @@
 - Optimizing simple systems  
 - Building practical applications  
 - Learning by building  
-- Turning ideas into working solutionsih  t
+- Turning ideas into working solutions
 ---
 
 
