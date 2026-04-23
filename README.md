@@ -107,16 +107,19 @@
   <img src="https://img.shields.io/badge/Supabase-Backend-000000?style=for-the-badge&logo=supabase&logoColor=00ff88&labelColor=000000&color=000000" />
 
 </p>
----
 
+
+---
 ## About Me
 
 - Learning web development and full-stack basics  
 - Building with FlutterFlow, Supabase, and AI  
 - Interested in problem solving and optimization  
 - Building small practical projects and improving consistently  
----
 
+
+
+---
 ### 🛠️ Tech Stack
 <p align="center">
 
