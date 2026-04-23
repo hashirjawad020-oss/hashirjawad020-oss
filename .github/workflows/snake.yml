@@ -21,9 +21,8 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: hashirjawad020-oss
-          outputs: |
-            dist/github-contribution-grid-snake-dark.svg?color_snake=00FF9C&color_dots=#000000,#001a12,#003d2b,#00FF9C,#7CFFCB
-      - name: Commit & push
+         outputs: |
+           dist/github-contribution-grid-snake-dark.svg?color_snake=7CFFCB&color_dots=#000000,#002b1f,#005c3c,#00ff9c,#b2ffea
         uses: EndBug/add-and-commit@v9
         with:
           add: "dist"
