@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hashir%20Jawad&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Learner%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=58&descSize=18&descColor=a8d8ea&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001a12,100:000000&height=200&section=header&text=Hashir%20Jawad&fontSize=52&fontColor=00ff88&fontAlignY=38&desc=Learner%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=58&descSize=18&descColor=00ffaa&animation=fadeIn" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=FlutterFlow+%7C+Supabase+%7C+AI+%F0%9F%A4%96)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=FlutterFlow+%7C+Supabase+%7C+AI+🤖;Building+cool+things...;Always+learning+🚀)](https://git.io/typing-svg)
 
 </div>
 
