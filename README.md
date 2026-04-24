@@ -127,10 +127,11 @@
   <img src="https://img.shields.io/badge/FlutterFlow-000000?style=for-the-badge&logo=flutter&logoColor=00ff88&color=000000" />
 
   <img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=00ff88&color=000000" />
-
-  <img src="https://img.shields.io/badge/AI-Vibe%20Coding-000000?style=for-the-badge&logo=openai&logoColor=00ff88&color=000000" />
+  
+<img src="https://img.shields.io/badge/AI-Vibe%20Coding-000000?style=for-the-badge&logo=codeforces&logoColor=00ff88&color=000000&labelColor=000000" />
 
 </p>
+
 
 ---
 <h2>📌 Projects</h2>
