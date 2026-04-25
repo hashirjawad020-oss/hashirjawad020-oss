@@ -165,6 +165,11 @@
 </p>
 
 ---
+### 📊 Productivity Stats
+
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hashirjawad020-oss&theme=github_dark)
+
+---
 
 ### 🔥 Quote
 > Build simple. Improve always.
