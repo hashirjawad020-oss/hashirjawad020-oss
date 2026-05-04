@@ -1,7 +1,6 @@
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001a12,100:000000&height=200&section=header&text=Hashir%20Jawad&fontSize=52&fontColor=00ff88&fontAlignY=38&desc=Learner%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=58&descSize=18&descColor=00ffaa&animation=fadeIn" />
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001a12,100:000000&height=220&section=header&text=Hashir%20Jawad&fontSize=52&fontColor=00ff88&fontAlignY=38&desc=Learner%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=58&descSize=18&descColor=00ffaa&animation=twinkling&stroke=00ff88&strokeWidth=2" />
+</div>
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=FlutterFlow+%7C+Supabase+%7C+AI+🤖;Building+cool+things...;Always+learning+🚀)](https://git.io/typing-svg)
