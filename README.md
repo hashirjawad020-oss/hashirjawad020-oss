@@ -167,8 +167,7 @@
 
 
 ### 🔥 Quote
-> Build simple. Improve always.
-
+> The faith that survives questioning is always the strongest kind.
 ---
 ### Contribution & Streak
 <p align="center">
