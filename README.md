@@ -179,9 +179,8 @@
 ---
 ### Contribution & Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=hashirjawad020-oss&theme=transparent&background=00000000&hide_border=true&ring=00ff88&fire=39ff14&currStreakNum=00ff88&sideNums=00ff88&currStreakLabel=00ff88&sideLabels=00ffaa&dates=00ffaa" />
+  <img src="https://streak-stats.demolab.com?user=hashirjawad020-oss&theme=transparent&hide_border=true" />
 </p>
-
 ---
 
 ### 📈 Contribution Graph
