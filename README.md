@@ -204,5 +204,4 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001a12,100:000000&height=120&section=footer&animation=fadeIn" />
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001a12,100:000000&height=170&section=footer&text=Lets%20Work%20Together&fontColor=00ff88&fontSize=20&fontAlignY=70&animation=fadeIn" />
