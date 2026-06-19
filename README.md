@@ -16,7 +16,7 @@
 </div>
 
 <p align="center">
-  <img src="./assets/hashir-card.svg" alt="Hashir Jawad Dev Card" width="480"/>
+  <img src="./assets/Hashir-card.svg" alt="Hashir Jawad Dev Card" width="480"/>
 </p>
 
 
